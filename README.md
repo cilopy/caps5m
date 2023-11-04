@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @caps5m
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!---
-caps5m/caps5m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges" align="center">
+  <a href="https://discord.gg/skynetdev">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
+
+<h1>
+ Hello, My Name is caps5m.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### 🧑‍💻 About Me :
+
+I'm caps5m, and I have a passion for all things technology-related. Currently, I'm on an exciting journey to deepen my knowledge in the fields of cyber security and computer science. With a strong foundation in programming, I'm constantly seeking new challenges and opportunities to expand my skill set.
+
+In my free time, I find joy in crafting Discord bots that not only serve practical purposes but also contribute to building vibrant online communities. I believe that technology can bridge gaps and bring people together, and creating bots is my way of making that happen.
+
+I'm a firm believer in the open-source ethos, and I enjoy collaborating with others on innovative projects that push the boundaries of what technology can achieve. Whether it's coding, troubleshooting, or exploring new programming languages and tools, I'm always eager to dive in and learn.
+
+As a tech enthusiast, I'm committed to staying updated with the latest industry trends and advancements. I see every challenge as an opportunity to grow and thrive in the ever-evolving tech landscape.
+
+:mailbox: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-caps5m-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/skynetdev)
+
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/i
