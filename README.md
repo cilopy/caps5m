@@ -48,4 +48,3 @@ As a tech enthusiast, I'm committed to staying updated with the latest industry 
 </div>
 
 ---
-
