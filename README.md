@@ -9,13 +9,13 @@
 </div>
 
 <h1>
- Hello, My Name is caps.
+ Hello, My Name is cilo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### 🧑‍💻 About Me :
 
-I'm caps, and I have a passion for all things technology-related. Currently, I'm on an exciting journey to deepen my knowledge in the fields of cyber security and computer science. With a strong foundation in programming, I'm constantly seeking new challenges and opportunities to expand my skill set.
+I'm cilo, and I have a passion for all things technology-related. Currently, I'm on an exciting journey to deepen my knowledge in the fields of cyber security and computer science. With a strong foundation in programming, I'm constantly seeking new challenges and opportunities to expand my skill set.
 
 In my free time, I find joy in crafting Discord bots that not only serve practical purposes but also contribute to building vibrant online communities. I believe that technology can bridge gaps and bring people together, and creating bots is my way of making that happen.
 
